@@ -1,0 +1,1 @@
+web: gunicorn Tuesday.vsgi --log-file-
